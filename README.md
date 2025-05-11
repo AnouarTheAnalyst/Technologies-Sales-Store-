@@ -24,28 +24,28 @@ This project showcases a comprehensive sales dashboard for a fictional chocolate
 
  •	By Geography:
 
-      o	USA: $91k (10.86%)
+      o	USA:     $91k (10.86%)
    
-      o	Spain: $84K (10.6)
+      o	Spain:   $84K (10.6)
    
       o	Belgium: $78K (10.4%)
    
-      o	UK: $76K (9.7%)
+      o	UK:      $76K (9.7%)
    
-      o	Other: $659M (58.44%)
+      o	Other:   $659M (58.44%)
    
 
  •	By Product
 
-      o	Blue Pen: $10.9M
+      o	Blue Pen:   $10.9M
    
-      o	White Mug: $10.
+      o	White Mug:  $10.8M
    
-      o	Wall Clock: $10.8
+      o	Wall Clock: $10.1M
    
-      o	Wireless Mousse = $9.8M
+      o	Wireless Mousse :$9.8M
    
-      o	Desk Lampe : $8.9M
+      o	Desk Lampe :     $8.9M
    
 
 # Sales Performance by Years
