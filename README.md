@@ -100,11 +100,9 @@ This project showcases a comprehensive sales dashboard for a fictional chocolate
       o	The final dashboard provides a comprehensive view of sales metrics and performance.
  
 # Snapshot of Dashboard
+
  
  ![image](https://github.com/user-attachments/assets/8bb294fb-e8ed-462b-9b39-c6f894caaa4c)
-
-
-Snapshot of Dashboard
 
 
 
