@@ -1,23 +1,26 @@
 # Technologies-Sales-Store
 # Overview
 
-This project showcases a comprehensive sales dashboard for a fictional chocolate company, Awesome Chocolates. The dashboard provides insights into various sales metrics, including total sales, shipment counts, and sales distribution by region, geography, and category.
+The TechSphere Sales Analytics Dashboard is a dynamic, data-driven platform designed to empower stakeholders with actionable insights into the sales performance of a fictional technology retail store. This interactive dashboard synthesizes complex sales data into intuitive visualizations, enabling users to monitor key performance indicators (KPIs), identify trends, and make informed strategic decisions. By focusing on critical metrics such as total sales, revenue generation, geographic sales distribution, and product performance, the dashboard offers a 360-degree view of the business’s health and growth opportunities.
 
 # Tools Used
 •	Excel: For initial data cleaning and analysis.
+
 •	SQL: For data Cleaning and extraction , advanced querying.
+
 •	Power BI: For data visualization and dashboard creation.
+
 •	Data Insights
 
 # The dashboard includes the following key metrics:
 
- •	Total Sales: $988M
+ •	Total Sales : $988M
  
- •	Total Quantity: 22k
+ •	Total Quantity : 22k
  
- •	Total Revenue: $843K
+ •	Total Revenue : $843K
  
- •	Shipping Cost = $14.69k
+ •	Shipping Cost : $14.69k
  
 
 # Sales Distribution
@@ -26,7 +29,7 @@ This project showcases a comprehensive sales dashboard for a fictional chocolate
 
       o	USA:     $91k (10.86%)
    
-      o	Spain:   $84K (10.6)
+      o	Spain:   $84K (10.6%)
    
       o	Belgium: $78K (10.4%)
    
